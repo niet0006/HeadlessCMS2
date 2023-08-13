@@ -1,0 +1,1 @@
+import{r as s,w as a,o,a as c,b as r,t as l}from"./entry.06b3d9c7.js";const i={class:"w-full p-12 bg-[#f7f6fd] rounded-[5px] text-center"},n={class:"text-2xl text-[#1d243d] font-bold"},f={__name:"Feature",props:{blok:Object},setup(e){return(d,_)=>{const t=s("editable");return a((o(),c("div",i,[r("h3",n,l(e.blok.name),1)])),[[t,e.blok]])}}};export{f as default};

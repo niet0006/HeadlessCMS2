@@ -1,0 +1,1 @@
+import{r as a,w as c,o as l,a as i,b as o}from"./entry.06b3d9c7.js";const r=["src","alt"],b={__name:"Image",props:{blok:Object},setup(e){return(s,n)=>{const t=a("editable");return c((l(),i("div",null,[o("img",{src:e.blok.principal.filename+"/m/1600x0",alt:e.blok.principal.alt,class:"mx-auto w-3/4 object-cover"},null,8,r)])),[[t,e.blok]])}}};export{b as default};
